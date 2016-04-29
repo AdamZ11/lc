@@ -1,13 +1,6 @@
-<?xml version="1.0"?> 
-<sharpUpdate> 
-    <update appID="LegendCraft"> 
-        <version>5.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/AdamZ11/lc/master/LegendCraft.exe</url> 
-        <fileName>LegendCraft.exe</fileName> 
-        <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
-        <description>Update: 06/19/2014:
-        1. Hibák kijavítása.
-		2. Facebook!</description> 
-        <launchArgs></launchArgs> 
-    </update> 
-</sharpUpdate>
+<?xml version="1.0" encoding="utf-8" ?>
+<appinfo>
+<version>1.5.0.0</version>
+<url>https://raw.githubusercontent.com/AdamZ11/lc/master/LegendCraft.exe</url>
+<about>Add your change log here</about>
+</appinfo>
