@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update appID="LegendCraft"> 
         <version>5.0.0.0</version> 
-        <url>http://legendcr.ininet.hu/launcher/minecraft/update/LegendCraft.exe</url> 
+        <url>https://raw.githubusercontent.com/AdamZ11/lc/master/LegendCraft.exe</url> 
         <fileName>LegendCraft.exe</fileName> 
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>Update: 06/19/2014:
